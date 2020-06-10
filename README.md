@@ -15,3 +15,8 @@ The composition of each dataset used in our experiment were as follows:
 Certain sample images from the datasets:
 
 ![Screenshot 2020-06-10 at 12 08 11 PM](https://user-images.githubusercontent.com/66628385/84235303-42b35a00-ab13-11ea-9065-9517415fa23c.png)
+
+Experimental procedure involved in the project:
+
+![Screenshot 2020-06-10 at 12 31 34 PM](https://user-images.githubusercontent.com/66628385/84237118-688e2e00-ab16-11ea-9153-451f7d95619e.png)
+
