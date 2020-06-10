@@ -1,6 +1,6 @@
 # COVID-19-classification-using-deep-learning
 
-The following project has been developed to analyze radiology images (both X-Ray and CT-Scan) of the human lung and apply the concept of transfer learning though deep learning algorithms. Here, some state-of-the-art deep learning models have been for the purpose wherein a relative comparison was made (based on performance matrix) and the best performing model was selected suitable for classifictaion of COVID-19 related pneumonia from other respiratory diseases like SARS, MERS and bacterial pneumonia.
+The following project has been developed to analyze radiology images (both X-Ray and CT-Scan) of the human lung and apply the concept of transfer learning though deep learning algorithms. Here, some state-of-the-art deep learning models have been used for the purpose wherein a relative comparison was made (based on performance matrix) and the best performing model was selected suitable for classifictaion of COVID-19 related pneumonia from other respiratory diseases like SARS, MERS and bacterial pneumonia.
 
 Two different datasets were used for the project which were as follows:
 1. Chest X-Ray images by Dr. Joseph Paul Cohen (https://github.com/ieee8023/COVID-chestxray-dataset)
