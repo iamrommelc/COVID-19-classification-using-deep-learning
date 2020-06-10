@@ -23,10 +23,15 @@ Experimental procedure involved in the project:
 
 Inventory:
 deep-network-models: codes for each model used.
+
 graphical-results: graph analysis of epochs vs accuracy/loss
+
 sample-classified-images: resultant images (tn,fn,fp,tp) after classification
+
 utility-codes: extra codes used in the project
+
 model-evaluation: results of models used
+
 performance: shows performance matrix for each model used.
 
 Keywords:
