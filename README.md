@@ -36,5 +36,5 @@ model-evaluation: results of models used
 performance: shows performance matrix for each model used.
 
 ## Keywords:
-Transfer Learning, Deep Learning, Image Processing, CT-Scan, X-Ray, COVID-19
+Transfer Learning, Deep Learning, Image Processing, CT-Scan, X-Ray, COVID-1
 
