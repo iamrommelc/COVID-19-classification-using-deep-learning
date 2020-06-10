@@ -21,7 +21,8 @@ Experimental procedure involved in the project:
 ![Screenshot 2020-06-10 at 12 31 34 PM](https://user-images.githubusercontent.com/66628385/84237118-688e2e00-ab16-11ea-9153-451f7d95619e.png)
 
 
-Inventory:
+## Inventory:
+
 deep-network-models: codes for each model used.
 
 graphical-results: graph analysis of epochs vs accuracy/loss
@@ -34,6 +35,6 @@ model-evaluation: results of models used
 
 performance: shows performance matrix for each model used.
 
-Keywords:
+## Keywords:
 Transfer Learning, Deep Learning, Image Processing, CT-Scan, X-Ray, COVID-19
 
