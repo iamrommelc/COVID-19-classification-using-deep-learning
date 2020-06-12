@@ -25,7 +25,7 @@ Certain sample images from the datasets:
 
 deep-network-models: codes for each model used.
 
-graphical-results: graph analysis of epochs vs accuracy/loss
+graphical-results: graphical analysis of epochs vs accuracy/loss
 
 sample-classified-images: resultant images (tn,fn,fp,tp) after classification
 
